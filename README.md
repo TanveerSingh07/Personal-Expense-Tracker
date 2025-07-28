@@ -14,7 +14,7 @@ A simple, interactive C++ console application to manage your personal expenses e
 
 ## 🖼️ Preview
 
-![Expense Tracker Screenshot](./screenshot.png)
+![Expense Tracker Screenshot](./preview.png)
 
 ## 🛠️ Tech Stack
 
